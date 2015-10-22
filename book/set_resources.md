@@ -23,6 +23,8 @@ You can find the calendar for upcoming events and workshops [here](http://www.no
 
 Have an idea for an event that would help your venture? Email [idea@neu.edu](mailto:idea@neu.edu)
 
+###Amazon AWS Activate
+Amazon Web Services provides startups with low cost, easy to use infrastructure needed to scale and grow any size business. The team at Amazon Web Services has an offer for companies in the IDEA portfolio. If you are in need of web-hosting credit fill out [this form](https://www.tfaforms.com/388996). 
 
 
 ###Prototype fund
