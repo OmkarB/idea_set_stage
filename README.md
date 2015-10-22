@@ -1,9 +1,3 @@
 #IDEA
 
-##Welcome to the Set stage!  
-
-This stage in IDEA is about:
-* Your business model
-* Developing a Minimum Viable Product/Service
-* A comprehensive Go-to-Market strategy
-* Beginning to understand your legal structure
+At this point, you've completed your value proposition pitch and are ready to move on the Set stage. Here you will find all the material needed to get through it.
