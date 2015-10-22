@@ -21,10 +21,10 @@ To support our ventures in their business model and go-to-market ventures can wo
 ###Workshops/Events
 You can find the calendar for upcoming events and workshops [here](http://www.northeastern.edu/idea/events/).
 
-Have an idea for an event that would help your venture? Email idea@neu.edu
+Have an idea for an event that would help your venture? Email [idea@neu.edu](mailto:idea@neu.edu)
 
 
 
 ###Prototype fund
-The Prototype Fund is a resource to support your team develop an early stage prototype. This fund enables teams to quickly build, test and share their concepts by providing them prototyping support and up to $1,000 in funding. [Click here](http://www.htmlpublish.com/newTestDocStorage/DocStorage/cd29097a8ea246f1bf430b19a5d5839b/FAQ.htm#) for more information about what the fund can and can’t be used for.  
-Applications are due on the **1st of every even month**, click here to apply.
+The Prototype Fund is a resource to support teams developing early stage prototypes. This fund enables teams to quickly build, test and share their concepts by providing them prototyping support and up to $1,000 in funding. 
+Applications are due on the **1st of every even month** [click here](http://www.tfaforms.com/383347) to apply.
