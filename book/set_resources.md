@@ -30,3 +30,6 @@ Amazon Web Services provides startups with low cost, easy to use infrastructure 
 ###Prototype fund
 The Prototype Fund is a resource to support teams developing early stage prototypes. This fund enables teams to quickly build, test and share their concepts by providing them prototyping support and up to $1,000 in funding. 
 Applications are due on the **1st of every even month** [click here](http://www.tfaforms.com/383347) to apply.
+
+###Scout Design
+Scout, the student-led design team, takes on a couple of IDEA affiliated ventures  that are in the set and go stage every semester. They work with ventures to create a visual identity. For more information and an application link [click here](https://scout1.typeform.com/to/hgeJVi).
