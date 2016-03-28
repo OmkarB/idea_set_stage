@@ -33,3 +33,6 @@ Applications are due on the **1st of every even month** [click here](http://www.
 
 ###Scout Design
 Scout, the student-led design team, takes on a couple of IDEA affiliated ventures  that are in the set and go stage every semester. They work with ventures to create a visual identity. For more information and an application link [click here](https://scout1.typeform.com/to/hgeJVi).
+
+###ARC - Accounting Resource Center
+ARC is a student-led accounting group that can provide ventures the information necessary to set up their books or file business taxes. If you have any questions in those areas you can get in touch with them at [northeasternARC@gmail.com](northeasternARC@gmail.com)
