@@ -7,4 +7,5 @@ Once you have completed the business modeling guide and reviewed the findings wi
 * A clear and comprehensive go-to-market strategy
 * A plan for production, distribution and implementation
 
-To arrange a Business Model pitch with the IDEA Staff please have your coach email IDEA Operations Lead, [Evan Sutherland](mailto:sutherland.ev@gmail.com). He will work to find a time that works for everyone within the next two weeks. Following the pitch, you will either a) pass into the Go Stage or b) be given detailed feedback and questions to answer in order to pass after an additional Business Model pitch.  
+To arrange a Business Model pitch with the IDEA Staff please fill out the [venture request form](
+https://www.tfaforms.com/406924). He will work to find a time that works for everyone within the next two weeks. Following the pitch, you will either a) pass into the Go Stage or b) be given detailed feedback and questions to answer in order to pass after an additional Business Model pitch.  
